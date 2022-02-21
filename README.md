@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @King-Gent
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning C#
